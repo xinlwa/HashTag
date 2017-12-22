@@ -1,0 +1,10 @@
+path = '../data/'
+weibo_data_hive = path + 'weibo_data_root'
+weibo_hashtag_index = path + 'weibo_hashtag_index'
+weibo_hashtag_feature = path + 'weibo_hashtag_path_data'
+weibo_data_hive_path = path + 'weibo_data_hive_path'
+weibo_original = path + 'weibo_original'
+weibo_report = path + 'weibo_report'
+weibo_name = path + 'weibo_name'
+weibo_feature = path + 'weibo_feature'
+split = 1
